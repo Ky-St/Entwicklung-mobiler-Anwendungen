@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StuLo20</string>
+    <string name="klicken_sie_bitte_auf_das_logo">Klicken Sie bitte auf das Logo!</string>
+    <string name="stulo">StuLo</string>
+    <string name="name_des_arbeitgebers">Name des Arbeitgebers</string>
+    <string name="stundenanzahl">Stundenanzahl</string>
+    <string name="stundenlohn">Stundenlohn</string>
+    <string name="steuerklasse_nur_bei_netto">Steuerklasse</string>
+    <string name="netto">Netto</string>
+    <string name="brutto">Brutto</string>
+    <string name="ergebniss">Ergebnis</string>
+    <string name="brutto_netto">Brutto/Netto</string>
+    <string name="speichern">Speichern</string>
+    <string name="herunterladen">Herunterladen</string>
+</resources>

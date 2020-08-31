@@ -1,0 +1,2 @@
+rootProject.name='StuLo20'
+include ':app'
